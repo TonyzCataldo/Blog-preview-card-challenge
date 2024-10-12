@@ -75,6 +75,10 @@ h1 {
 
 }
 
+h1:hover {
+    color: hsl(47, 88%, 63%);
+}
+
 .p2 {
     font-size: 16px;
     margin-left: 2.3rem;
